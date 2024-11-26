@@ -8,3 +8,4 @@ Notes for LLM technology
 5. 毒鸡汤模型
 6. 毒鸡汤分类
 7. 文本分类和信息提取。
+8. In-context learning (ICL)
