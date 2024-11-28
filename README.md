@@ -9,3 +9,5 @@ Notes for LLM technology
 6. 毒鸡汤分类
 7. 文本分类和信息提取。
 8. In-context learning (ICL)
+9. 做"我很方"图片生成器。
+10. 做算命先生AI.
