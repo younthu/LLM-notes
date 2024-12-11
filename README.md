@@ -25,9 +25,18 @@ Notes for LLM technology
 
 ## 模型微调
 
+## 模型压缩
+
+## RAG 
+
+## PROMPT
+
 
 1. 对齐是什么
 1. 微调有哪些方案
+1. 微调和RAG的区别
+1. 微调和预训练的区别
+1. 微调和PROMPT差异在什么地方
 1. CLIP是什么
 1. 多模态是什么
 1. Transformer是什么
@@ -48,4 +57,4 @@ Notes for LLM technology
 1. 指令微调是什么
 1. ResNet, 残差网络的原理。
 1. Neural Style(风格迁移)的原理.
-1. 
+1. 人工智能幻觉(hallucination)是什么？
