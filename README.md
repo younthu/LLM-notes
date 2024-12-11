@@ -26,7 +26,7 @@ Notes for LLM technology
 ## 模型微调
 
 
-1. 对其是什么
+1. 对齐是什么
 1. 微调有哪些方案
 1. CLIP是什么
 1. 多模态是什么
@@ -37,3 +37,15 @@ Notes for LLM technology
 1. 知识蒸馏是什么?
 1. 知识蒸馏的方法?
 1. 模型微调是什么?
+1. Stable Difussion是什么?
+1. Diffusion扩散模型的原理.
+1. CLIP和Stable Diffusion是怎么结合的?
+1. vLLM是什么？
+1. LoRA原理。
+1. LoRA的秩是什么
+1. 怎么控制LoRA的参数量。
+1. 灾难性遗忘是什么
+1. 指令微调是什么
+1. ResNet, 残差网络的原理。
+1. Neural Style(风格迁移)的原理.
+1. 
